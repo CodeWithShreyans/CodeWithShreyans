@@ -8,7 +8,7 @@ Passionate Software Developer | Aspiring Entrepreneur | Dedicated Startup Founde
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/sjain07/)
 * ✉️  You can contact me at [shreyans@duelance.app](mailto:shreyans@duelance.app)
 * 🚀  I'm currently working on [Duelance](http://duelance.app)
-* 🧠  I'm learning Typescript, Sveltekit, and How to run a startup.
+* 🧠  I'm learning Typescript, Sveltekit, Astro, Markdown, and how to run a startup.
 
 ### Skills
 
