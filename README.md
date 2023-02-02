@@ -1,4 +1,4 @@
-Hi! 👋 My name is Shreyans Jain (DestroyerXyz)
+Hi! 👋 I'm Shreyans Jain (DestroyerXyz)
 ====================================================================================================================================================
 
 Passionate Software Developer | Aspiring Entrepreneur | Dedicated Startup Founder
