@@ -1,4 +1,4 @@
-Hi! 👋 I'm Shreyans Jain
+Hi 👋 I'm Shreyans Jain
 ====================================================================================================================================================
 
 Passionate Software Developer | Aspiring Entrepreneur | Dedicated Startup Founder
