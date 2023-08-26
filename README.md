@@ -6,11 +6,11 @@
  <tr>
     <td>
       <ul>
-      <li> 🌏  Based in Agra, India </li>
-      <li> 📃  See my portfolio on [Linkedin](https://www.linkedin.com/in/sjain07/) </li>
-      <li> 💬  Contact me @ [shreyans@duelance.app](mailto:shreyans@shreyans.sh) </li>
-      <li> 💼  Previously CTO @ [Duelance](https://duelance.app) </li>
-      <li> 🧠  Learning Typescript, React, Next.js, and how to live </li>
+      <li> 🌏  Based in Agra, India. </li>
+      <li> 📃  See my portfolio on <a href="https://www.linkedin.com/in/sjain07">Linkedin</a>. </li>
+      <li> 💬  Contact me @ <a href="mailto:shreyans@shreyans.sh">shreyans@shreyans.sh</a>. </li>
+      <li> 💼  Previously CTO @ <a href="https://duelance.app">Duelance</a>. </li>
+      <li> 🧠  Learning Typescript, React, Next.js, and how to live. </li>
     </ul>
     </td>
     <td>
