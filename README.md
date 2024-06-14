@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shreyans Jain
 
-## Developer | Entrepreneur | Startup Founder
+## Developer · Entrepreneur · Rationalist
 
 <table border="0">
  <tr>
