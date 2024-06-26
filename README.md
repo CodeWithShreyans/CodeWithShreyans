@@ -1,16 +1,15 @@
-# Hi 👋 I'm Shreyans Jain
+# Hey! 👋 I'm Shreyans 😁
 
-## Developer · Entrepreneur · Rationalist
+### Developer · Entrepreneur · Rationalist
 
 <table border="0">
  <tr>
     <td>
       <ul>
-      <li> 🌏  Based in Agra, India. </li>
-      <li> 📃  See my portfolio on <a href="https://www.linkedin.com/in/sjain07">Linkedin</a>. </li>
-      <li> 💬  Contact me @ <a href="mailto:shreyans@shreyans.sh">shreyans@shreyans.sh</a>. </li>
-      <li> 💼  Previously CTO @ <a href="https://duelance.app">Duelance</a>. </li>
-      <li> 🧠  Learning Typescript, React, Next.js, and how to live. </li>
+      <li> 🌏  Based in Agra, India </li>
+      <li> 📃  Check out my portfolio @ <a href="https://shreyans.sh">shreyans.sh</a> </li>
+      <li> 💬  Contact me @ <a href="mailto:shreyans@shreyans.sh">shreyans@shreyans.sh</a> </li>
+      <li> 💼  Previously CTO @ <a href="https://duelance.app">Duelance</a> </li>
     </ul>
     </td>
     <td>
