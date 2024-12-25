@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Shreyans 😄
 
-#### I'm a Developer by profession · Entrepreneur at heart · Rationalist in thought
+I'm a **Developer** by profession · **Entrepreneur** at heart · **Rationalist** in thought
 
 <table border="0">
  <tr>
