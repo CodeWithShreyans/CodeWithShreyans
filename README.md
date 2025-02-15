@@ -13,7 +13,7 @@ I'm a **Developer** by profession · **Entrepreneur** at heart · **Rationalist*
     </ul>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CodeWithShreyans&show_icons=true&hide=&count_private=true&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true&show=prs_merged" alt="Shreyans' GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CodeWithShreyans&show_icons=true&hide=contribs&count_private=true&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true&show=prs_merged" alt="Shreyans' GitHub Stats" />
     </td>
  </tr>
 </table>
