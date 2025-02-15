@@ -6,10 +6,10 @@ I'm a **Developer** by profession · **Entrepreneur** at heart · **Rationalist*
  <tr>
     <td>
       <ul>
-      <li> 🌏  Based in Agra, India </li>
-      <li> 📃  Check out my portfolio @ <a href="https://shreyans.sh">shreyans.sh</a> </li>
-      <li> 💬  Contact me @ <a href="mailto:shreyans@shreyans.sh">shreyans@shreyans.sh</a> </li>
-      <li> 💼  Previously CTO @ <a href="https://duelance.app">Duelance</a> </li>
+      <li> 🌏  Based in <a href="https://maps.apple.com/?address=Agra,%20Uttar%20Pradesh,%20India&auid=8674711315015033263&ll=27.175737,78.021656&lsp=6489&q=Agra&t=m">Agra, India</a> </li>
+      <li> 👨‍💻  Working on <a href="https://shreyans.sh/othree">OThree AI</a> </li>
+      <li> 🧠  Thinking & doing @ <a href="https://shreyans.sh">shreyans.sh</a> </li>
+      <li> ✉️  Contact me @ <a href="mailto:shreyans@shreyans.sh">shreyans@shreyans.sh</a> </li>
     </ul>
     </td>
     <td>
